@@ -3,8 +3,8 @@ body {
 	background-color: lightgray; 
 }
 
-h1 {
-
+p {
+	text-align: justify;
 }
 
 li {
@@ -22,29 +22,17 @@ ul {
 	background-color: red;
 }
 
-#top-menu-bar {
-	display: block;
-	background-color: red;
-}
-
-.menu-bar-left {
-	
-}
-
-.menu-bar-right {
-	padding-right: right;
-}
-
-#middle-block {
+.middle-block {
 	color: snow;
-	text-align: left;
-	padding: 25px;
+	text-align: justify;
+	padding: 10px 25px 25px 40px;
 	margin: 50px;
 	background-color: black;
-
 	overflow: scroll;
 	min-height: 150px;
 	max-height: 200px;
+	background-image: url("../images/block-background.png");
+	background-repeat: no-repeat;
 }
 
 #bottom-links {
