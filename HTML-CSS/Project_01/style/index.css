@@ -1,0 +1,52 @@
+body {
+	font-family: courier;
+	background-color: lightgray; 
+}
+
+h1 {
+
+}
+
+li {
+	display: inline;
+	border: 3px lightgray solid;
+}
+
+ul {
+		padding-right: 2px;
+}
+
+#principal-header {
+	text-align: center;
+	display: block;
+	background-color: red;
+}
+
+#top-menu-bar {
+	display: block;
+	background-color: red;
+}
+
+.menu-bar-left {
+	
+}
+
+.menu-bar-right {
+	padding-right: right;
+}
+
+#middle-block {
+	color: snow;
+	text-align: left;
+	padding: 25px;
+	margin: 50px;
+	background-color: black;
+
+	overflow: scroll;
+	min-height: 150px;
+	max-height: 200px;
+}
+
+#bottom-links {
+	bottom: 0px;
+}
