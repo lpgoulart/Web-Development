@@ -38,3 +38,9 @@ ul {
 #bottom-links {
 	bottom: 0px;
 }
+
+input {
+	margin-left: 5px;
+	margin-top: 5px;
+	bottom: 0px;
+}
